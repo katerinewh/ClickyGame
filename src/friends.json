@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "https://media.giphy.com/media/VUdLlDsKlQi5i/giphy.gif",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "http://38.media.tumblr.com/db54372feef6c0c3a40b55547e09eafc/tumblr_nca0sivsaR1s2wio8o2_500.gif",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://i.gifer.com/GsGJ.gif",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://media.giphy.com/media/p7RFNcAgzKqsg/giphy.gif",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://media.giphy.com/media/QRvWSBtSPkbOE/giphy.gif",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://66.media.tumblr.com/34863d87ef89648704efb5bc6e953995/tumblr_pl66urOXhD1ubj601o1_500.gif",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://data.whicdn.com/images/320500185/original.gif",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://gifimage.net/wp-content/uploads/2017/10/nightmare-before-christmas-bunny-gif-3.gif",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://i.pinimg.com/originals/63/11/1e/63111e5e89bea27ae23df4a8826ce664.gif",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://media.giphy.com/media/Bo95o8mSV8jHW/giphy.gif",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://data.whicdn.com/images/201857633/original.gif",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://media.giphy.com/media/M6DGc0uawRT2g/giphy.gif",
+      "clicked": false
+    }
+  ]
+  
