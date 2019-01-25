@@ -1,6 +1,16 @@
-* {
+
+@import url(//db.onlinewebfonts.com/c/6de6d5588abaeb2543b302b54d6dc1b7?family=Nightmare+Before+Christmas);
+@font-face {font-family: "Nightmare Before Christmas";
+  src: url("//db.onlinewebfonts.com/t/6de6d5588abaeb2543b302b54d6dc1b7.eot");
+  src: url("//db.onlinewebfonts.com/t/6de6d5588abaeb2543b302b54d6dc1b7.eot?#iefix") format("embedded-opentype"),
+  url("//db.onlinewebfonts.com/t/6de6d5588abaeb2543b302b54d6dc1b7.woff2") format("woff2"),
+  url("//db.onlinewebfonts.com/t/6de6d5588abaeb2543b302b54d6dc1b7.woff") format("woff"),
+  url("//db.onlinewebfonts.com/t/6de6d5588abaeb2543b302b54d6dc1b7.ttf") format("truetype"),
+  url("//db.onlinewebfonts.com/t/6de6d5588abaeb2543b302b54d6dc1b7.svg#Nightmare Before Christmas") format("svg");
+}
+  * {
   box-sizing: border-box;
-  font-family: 'Bungee', cursive;
+  font-family: "Nightmare Before Christmas";
 }
 
 html, body, #root {
