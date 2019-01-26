@@ -11,6 +11,8 @@
   * {
   box-sizing: border-box;
   font-family: "Nightmare Before Christmas";
+  font-size: 35px;
+  text-align: center;
 }
 
 html, body, #root {
